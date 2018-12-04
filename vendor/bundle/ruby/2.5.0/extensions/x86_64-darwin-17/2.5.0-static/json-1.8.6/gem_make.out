@@ -1,0 +1,13 @@
+current directory: /Users/sannabanana/Desktop/bitmaker/dec_03_2018/photogur/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+/Users/sannabanana/.rbenv/versions/2.5.2/bin/ruby -r ./siteconf20181204-58571-1bwwql9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sannabanana/Desktop/bitmaker/dec_03_2018/photogur/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sannabanana/Desktop/bitmaker/dec_03_2018/photogur/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sannabanana/Desktop/bitmaker/dec_03_2018/photogur/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
